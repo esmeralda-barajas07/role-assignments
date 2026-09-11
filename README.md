@@ -22,7 +22,8 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 
 <p>
 <img width="1917" height="659" alt="image"
-src="https://github.com/user-attachments/assets/aed1af6f-7967-4c5d-a662-4bcbc6314dba" />
+<img width="1920" height="861" alt="Screenshot (206)" src="https://github.com/user-attachments/assets/7b791da5-5d99-4379-91cb-f3e7a033710e" />
+
 
 
 </p>
@@ -33,7 +34,8 @@ Assigned User Administrator Role and Directory Readers Role to user Chris Walker
 
 <p>
 <img width="1919" height="684" alt="image"
-src="https://github.com/user-attachments/assets/4634746f-10e6-40c9-827a-8d33219c4a81" />
+<img width="1920" height="858" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/494cccb4-4fc1-4d45-b3c4-fca4a6b076b1" />
+
 
 
 </p>
